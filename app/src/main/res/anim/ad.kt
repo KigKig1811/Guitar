@@ -1,0 +1,4 @@
+package anim
+
+class ad {
+}
